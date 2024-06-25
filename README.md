@@ -39,7 +39,9 @@ deliveries.csv and matches.csv: Dependencies file.
 # Data Preprocessing
 
 Historical match data is preprocessed using Pandas.
+
 Label encoding is used to convert categorical data into numerical values.
+
 The Random Forest model is trained on the preprocessed data to make predictions.
 
 # conclusion
